@@ -27,7 +27,7 @@
 	// create the controller and inject Angular's $scope
 	scotchApp.controller('mainController', function($scope) {
 		// create a message to display in our view
-		$scope.message = 'Everyone come and see how good I look!';
+		$scope.message = 'Aqui é Body Builder Ipsum PORRA! Negativa Bambam negativa. Não vai dá não. Vamo monstro! Que não vai dá rapaiz, não vai dá essa porra. Birl! Aqui nóis constrói fibra, não é água com músculo.\nAqui nóis constrói fibra, não é água com músculo. Birl! Eu quero esse 13 daqui a pouquinho aí. É verão o ano todo vem cumpadi. Vamo monstro! Vem porra!';
 	});
 
 	scotchApp.controller('aboutController', function($scope) {
@@ -35,5 +35,5 @@
 	});
 
 	scotchApp.controller('contactController', function($scope) {
-		$scope.message = 'Contact us! JK. This is just a demo.';
+		$scope.message = 'Contact me!';
 	});
